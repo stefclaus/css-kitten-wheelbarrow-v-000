@@ -1,7 +1,5 @@
 /* Select the image with a class of kitty-1 */
-img.kitty-1 {
-  color: red;
-}
+img.kitty-1
 /*__write_selector_here__*/ {
   position: absolute;
   z-index: 1;
